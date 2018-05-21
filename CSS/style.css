@@ -1,0 +1,15 @@
+#showpages li{
+	list-style: none;
+	float:left;
+	margin-right: 5px;
+	
+}
+#showpages li a{
+	display: block;
+	padding: 5px 7px;
+	background-color: #DCD9D4;
+}
+#showpages .thisclass a{
+	background-color: #eeeeee;
+    
+	}

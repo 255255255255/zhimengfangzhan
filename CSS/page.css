@@ -1,0 +1,100 @@
+@charset utf-8;
+.page_line {
+	height: 40px;
+	float: left;
+	padding: 18px 0 0 75px;
+}
+
+.page_line ul li {
+	float: left;
+	line-height: 20px;
+	background: #f60;
+	color: #FFF;
+	height: 20px;
+	text-align: center;
+	min-width: 20px;
+	width: auto !important;
+	width: 20px;
+	border: 1px solid #ccc;
+	margin-left: 4px;
+	padding: 0px;
+	display: block
+}
+
+.page_line ul li a {
+	background: #FFF;
+	display: block;
+	color: #333;
+	padding: 0 6px;
+	font-size: 12px;
+	display: block
+}
+
+.page_line ul li a:hover {
+	color: #ef9b11;
+	display: block
+}
+
+.page_first {
+	width: 40px;
+	height: 24px;
+	border: 1px solid #CCC;
+	font-size: 13px;
+	text-align: center;
+	line-height: 24px;
+	padding: 3px 6px;
+}
+
+.page_prev {
+	width: 40px;
+	height: 24px;
+	border: 1px solid #ccc;
+	font-size: 13px;
+	text-align: center;
+	padding: 3px 6px;
+}
+
+.page_current {
+	width: 20px;
+	height: 24px;
+	border: 1px solid #ccc;
+	color: #fff;
+	font-size: 13px;
+	text-align: center;
+	background: #f6742b;
+	padding: 3px 6px;
+}
+
+.mPageCount {
+	padding: 3px;
+}
+
+.mPageCount a {
+	width: 25px;
+	height: 24px;
+	border: 1px solid #ccc;
+	font-size: 13px;
+	text-align: center;
+	padding: 3px 6px;
+}
+
+.page_container {
+	height: 24px;
+	padding-top: 20px;
+}
+
+.new_list_all_in p {
+	line-height: 25px;
+	font-size: 14px;
+	text-indent: 29px;
+}
+
+.page_next,
+.page_last {
+	width: 40px;
+	height: 24px;
+	border: 1px solid #ccc;
+	font-size: 13px;
+	text-align: center;
+	padding: 3px 6px;
+}
