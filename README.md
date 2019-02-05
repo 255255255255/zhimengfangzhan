@@ -4,7 +4,7 @@
 
 ### 2.将所有的CSS、JS、Image文件换成基于网站根目录的绝对路径
 
-#### 2.1.CSS代码的路径：
+#### 2.1.CSS代码的路径
 
 ```
 {dede:global.cfg_basehost/}{dede:global.cfg_indexurl/}/templets/zhimeng/CSS/
